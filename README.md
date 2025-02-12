@@ -1,9 +1,11 @@
 ## Hi everyone! 
 
-- My name is Batrisyia Amani, but you can call me ✨Amani✨.
-- I am currently pursuing my degree at Universiti Teknologi Malaysia (UTM) in Computer Science (Bioinformatics) 🌱.
-- I am currently a first year student!
-- I am looking forward to gain new skills and knowledge to contribute in this field ^o^.
+- My name is Batrisyia Amani, but you can call me Amani.
+- I am currently pursuing my degree at Universiti Teknologi Malaysia (UTM) in Computer Science (Bioinformatics).
+- I am currently a first year student.
+- Able to code in JAVA and C++ language.
+- Familiar with Microsoft Excel.
+- I am looking forward to gain new skills and knowledge to contribute in this field.
 
 <!--
 **amanihaled/amanihaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
